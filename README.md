@@ -1,6 +1,10 @@
 # weather-forecast
 
 SPA Vue3 application with Pinia/Vite/Vue-Router/SCSS - search for a city and display the weather forecast for today.<br/>
+Deployed with vercel.com using serverless function.
+
+## Demo
+[https://weather-forecast-zeta-two.vercel.app/](https://weather-forecast-zeta-two.vercel.app/)
 
 ## Launch project locally
 ```
