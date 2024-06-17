@@ -48,7 +48,7 @@ export default {
 		},
 
 		backgroundImage() {
-			return 'url(' + `"./src/static/weather-main/${this.weatherInfo?.weather[0].description}.png"` + ')'
+			return 'url(' + `"/weather-main/${this.weatherInfo?.weather[0].description}.png"` + ')'
 		}
 	},
 
