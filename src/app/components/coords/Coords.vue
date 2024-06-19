@@ -1,6 +1,6 @@
 <template>
 	<section class="section-bottom">
-		<div class="block-bottom">
+		<div class="block-bottom block-bottom-left">
 			<div class="block-bottom-inner">
 				<div class="block-bottom-pic pic-coords"/>
 
