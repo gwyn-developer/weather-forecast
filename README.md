@@ -1,6 +1,6 @@
 # weather-forecast
 
-SPA Vue3 application with Pinia/Vite/Vue-Router/SCSS with API [api.openweathermap.org](https://api.openweathermap.org/) - search for a city and display the weather forecast for today.<br/>
+SPA Vue3 adaptive application with Pinia/Vite/Vue-Router/SCSS with API [api.openweathermap.org](https://api.openweathermap.org/) - search for a city and display the weather forecast for today.<br/>
 Deployed with vercel.com using serverless function.
 
 ## Demo
